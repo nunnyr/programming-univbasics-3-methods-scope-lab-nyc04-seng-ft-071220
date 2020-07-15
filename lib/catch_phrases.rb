@@ -12,8 +12,8 @@ def toadstool
 end
 
 
-def link (mario, toadstool, )
-  
+def link 
+  "It's Dangerous To Go Alone! Take This.\n" 
   
   
 end 
