@@ -17,3 +17,7 @@ def link
  puts say
 
 end 
+
+def all_phrases
+  
+end
