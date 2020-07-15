@@ -13,7 +13,7 @@ end
 
 
 def link 
-  "It's Dangerous To Go Alone! Take This.\n" 
-  
+ link = "It's Dangerous To Go Alone! Take This.\n" 
+
   
 end 
